@@ -19,6 +19,6 @@ class Waiter
   end
   
   def best_tipper
-    
+    best_tipped_meal = 
   end 
 end
